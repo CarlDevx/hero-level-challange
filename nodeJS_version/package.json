@@ -1,0 +1,12 @@
+{
+  "name": "desafiodoheroi_dio-me",
+  "version": "1.0.0",
+  "description": "desafio da dio.me para teste de logica de programação em js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DanSousa",
+  "license": "ISC"
+}
